@@ -1,15 +1,15 @@
 {
-  "expo": {
-    "name": "BET & PLAY",
-    "slug": "betandplay",
-    "scheme": "betandplay",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0F121A"
-    },
+    "expo": {
+        "name": "BET & PLAY",
+        "slug": "betandplay",
+        "scheme": "betandplay",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+          "image": "./assets/splash.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#0F121A"
+        },
     "assetBundlePatterns": [
       "**/*"
     ],
